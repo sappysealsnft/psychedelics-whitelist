@@ -1,0 +1,10 @@
+{
+  "provider": "https://mainnet.infura.io/v3/c8b708071c4547da9b2b6128e54cf9d0",
+  "contractAddress": "0xc8bcbe0e8ae36d8f9238cd320ef6de88784b1734",
+  "fromBlock": 13000000,
+  "toBlock": 13634705,
+  "format": "csv",
+  "blocksPerBatch": 2500,
+  "delay": 0,
+  "checkIfContract": true
+}
